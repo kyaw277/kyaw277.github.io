@@ -1,0 +1,14 @@
+git lesson
+----------
+VS code - > open document folder
+Vs code - > Terminal 
+git clone https://github.com/kyaw277/kyaw277.github.io.git
+open -> document-> git.io
+
+create html file and write code in this
+
+Terminal - > git status 
+         - > git add .
+         - > git commit -m "index file add"
+         - > git config --global user.email "ydboffice@gmail.com"
+         - > git config --global user.name "kyaw277"
