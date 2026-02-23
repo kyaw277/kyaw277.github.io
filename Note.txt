@@ -12,3 +12,12 @@ Terminal - > git status
          - > git commit -m "index file add"
          - > git config --global user.email "ydboffice@gmail.com"
          - > git config --global user.name "kyaw277"
+         - > git push
+click sign in with browser 
+
+daily Task git command
+
+git status
+git add .
+git commit -m "message"
+git push
